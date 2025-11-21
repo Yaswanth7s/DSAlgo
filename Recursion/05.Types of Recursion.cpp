@@ -1,5 +1,7 @@
 //Type-1: parameterized recursion
 //Ex-1: Sum of n numbers
+//Time complexity: O(n)
+//Space complexity: O(n)
 #include<bits/stdc++.h>
 using namespace std;
 void sumofn(int i,int sum){
@@ -19,6 +21,8 @@ int main(){
 }
 
 //Ex-2: Factorial of n
+//Time complexity: O(n)
+//Space complexity: O(n)
 #include<bits/stdc++.h>
 using namespace std;
 void factorial(int i,int product){
@@ -42,6 +46,8 @@ int main(){
 
 //Type-2: functional recursion
 //Ex-1: Sum of n
+//Time complexity: O(n)
+//Space complexity: O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int sumofn(int n){
@@ -58,6 +64,8 @@ int main(){
 }
 
 //Ex-2: Factorial of n
+//Time complexity: O(n)
+//Space complexity: O(n)
 #include<bits/stdc++.h>
 using namespace std;
 int factorial(int n){
